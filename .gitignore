@@ -45,3 +45,5 @@ nb-configuration.xml
 .certs/
 
 .idea/
+application*.properties
+!application-example.properties
