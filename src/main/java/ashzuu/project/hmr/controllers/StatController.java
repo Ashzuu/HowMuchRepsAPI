@@ -1,0 +1,11 @@
+package ashzuu.project.hmr.controllers;
+
+import jakarta.annotation.Resource;
+
+/**
+ * Controller to manage all stats which appears in the dashboard when the user connecting to the front.
+ * The use of this controller is according to the need of users, and the profil connected.
+ */
+@Resource
+public class StatController {
+}
